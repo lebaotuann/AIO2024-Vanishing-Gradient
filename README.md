@@ -1,2 +1,2 @@
-# AIO2024-Vanishing-Gradient
-Vanishing Gradient
+# AIO2024: Vanishing Gradient
+Run on Google Colab
